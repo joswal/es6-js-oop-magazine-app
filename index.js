@@ -2,7 +2,7 @@ const os = require("os");
 const http = require("http");
 const url = require("url");
 
-// const myurl = new URL("https://nodejs.org/dist/latest-v10.x/docs/api/url.html");
+const myurl = new URL("https://nodejs.org/dist/latest-v10.x/docs/api/url.html");
 
 // console.log(os.platform(), " and ", os.arch());
 
